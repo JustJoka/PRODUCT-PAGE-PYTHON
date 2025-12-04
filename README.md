@@ -15,7 +15,8 @@ Componentes interativos como Tabs, Dropdown, ElevatedButton, etc.
 
 📸 Preview
 
-(Adicione aqui uma imagem do seu app rodando — isso deixa o projeto muito mais atrativo!)
+![Preview](https://github.com/JustJoka/PRODUCT-PAGE-PYTHON/blob/main/PRODUCT%20PAGE%20PYTHON/Images/Screenshot_388.png?raw=true) ![Preview](https://github.com/JustJoka/PRODUCT-PAGE-PYTHON/blob/main/PRODUCT%20PAGE%20PYTHON/Images/Screenshot_389.png?raw=true)
+
 
 🎯 Funcionalidades
 
