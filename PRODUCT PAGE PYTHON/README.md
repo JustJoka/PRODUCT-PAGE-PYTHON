@@ -15,7 +15,7 @@ Componentes interativos como Tabs, Dropdown, ElevatedButton, etc.
 
 📸 Preview
 
-(Adicione aqui uma imagem do seu app rodando — isso deixa o projeto muito mais atrativo!)
+https://github.com/JustJoka/PRODUCT-PAGE-PYTHON/blob/main/PRODUCT%20PAGE%20PYTHON/Images/Screenshot_388.png?raw=true
 
 🎯 Funcionalidades
 
@@ -48,5 +48,6 @@ Ele simula uma página de produto semelhante às grandes lojas online, com foco 
 Interatividade
 
 Design elegante
+
 
 Código legível e organizado
