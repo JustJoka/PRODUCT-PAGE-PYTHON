@@ -15,7 +15,7 @@ Componentes interativos como Tabs, Dropdown, ElevatedButton, etc.
 
 📸 Preview
 
-https://github.com/JustJoka/PRODUCT-PAGE-PYTHON/blob/main/PRODUCT%20PAGE%20PYTHON/Images/Screenshot_388.png?raw=true
+![Preview](https://github.com/JustJoka/PRODUCT-PAGE-PYTHON/blob/main/PRODUCT%20PAGE%20PYTHON/Images/Screenshot_388.png?raw=true)
 
 🎯 Funcionalidades
 
@@ -51,3 +51,4 @@ Design elegante
 
 
 Código legível e organizado
+
